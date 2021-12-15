@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@1,700&display=swap');
+
+body{
+    background-image: url("backgroundimage2.jpg");
+    background-size: 100%;
+    color: white;
+}
+
+.maindiv{
+    align-items: center;
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    border-color: gold;
+    border-style: solid;
+    border-radius: 20px 20px 20px 20px;
+    width: 50%;
+    margin: auto;
+
+}
+
+.addtimediv{
+    margin-top: 40px;
+}
+
+.headding{
+    font-size: 30px;
+}
+
+.time{
+    font-family: 'Gelasio', serif;
+    font-size: 50px;
+}
+
+.reduce{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.reducediv{
+    align-content: center;
+}
+
+.mainpass{
+    border-radius: 30px 30px 30px 30px;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.conpass{
+    margin-bottom: 25px;
+}
+
+
+
+.trans{
+    color: azure;
+    background-color: #ffffff10;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+}
+
+.myalert{
+    font-size: 20px;
+    height: 70px;
+    background-color: lightblue;
+}
+
+.minmax{
+    font-size: 27px;
+}
